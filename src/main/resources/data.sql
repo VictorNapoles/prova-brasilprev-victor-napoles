@@ -1,1 +1,1 @@
-INSERT INTO User(name, mail, password) VALUES('Aluno', 'aluno@email.com', '$2a$10$P3ub6IvjA0LjuSnvmMgKeOG2Rj3.jP7Nlur9kBQnU.mGM5bEXC18W');
+INSERT INTO Users(name, mail, password) VALUES('Aluno', 'aluno@email.com', '$2a$10$P3ub6IvjA0LjuSnvmMgKeOG2Rj3.jP7Nlur9kBQnU.mGM5bEXC18W');
